@@ -4,7 +4,7 @@ This is my roadmap to becoming a professional developer, focusing on Python, Mac
 
 ## 🛠️ Fundamentals & Setup  
 ✅ Improve my **GitHub profile** (README, projects, roadmap)  
-✅ Master **Git & GitHub** (commits, branches, pull requests)  
+✅ Master **Git & GitHub** (commits, branches, pull requests) 
 ✅ Learn **Python Best Practices** (PEP8, virtual environments)  
 ✅ Work on a **small Python project**  
 
